@@ -1,0 +1,27 @@
+h1 {
+    color: #dddddd;
+}
+#spanId {
+    font-size: 18px;margin: 50px;
+}
+.divClass {   margin: auto;
+    
+}
+#thirdDiv {
+    width: 500px; 
+    height: 600px;
+    background-color: #E12725;
+    padding: 50px;
+    border-style:solid;
+    border-width: 5px;
+    border-color: #007A56;
+    margin: auto;
+}
+img {width: 400px;height: auto}
+body {
+    background: url(https://www.thebfa.org/wp-content/uploads/2019/09/Papa-Johns-Campaign-Featured-Image-.png);
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+    color: rgb(194, 194, 241);
+    text-align: center
+}
